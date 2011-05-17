@@ -16,7 +16,7 @@ Tuesday Presentations
 * Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++	
 * Automatic Hybrid MPI+OpenMP Code Generation
 * Spirit.Qi in the Real World	
-* Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library
+* [Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library] (https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
 * The Proposed Boost B-tree Library
 * Parsing C++ with GCC plugins
