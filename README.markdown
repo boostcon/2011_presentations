@@ -3,7 +3,7 @@
 Monday Presentations
 
 * [Library in a week](https://github.com/boostcon/2011_presentations/raw/master/mon/liaw_overview.pdf)
-* C++0x Progress and Status(https://github.com/boostcon/2011_presentations/raw/master/mon/cpp0x_overview.pdf)
+* [C++0x Progress and Status](https://github.com/boostcon/2011_presentations/raw/master/mon/cpp0x_overview.pdf)
 * [Distributed parametric optimization with the Geneva library](https://github.com/boostcon/2011_presentations/raw/master/mon/boostcon2011_geneva.pdf)
 * [Thinking Asynchronously](https://github.com/boostcon/2011_presentations/raw/master/mon/thinking_asynchronously.pdf)
 * [Phoenix V3](https://github.com/boostcon/2011_presentations/raw/master/mon/phoenix_v3.pdf) | [ppt version](https://github.com/boostcon/2011_presentations/raw/master/mon/phoenix_v3.ppt)
