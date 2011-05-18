@@ -20,3 +20,4 @@ Tuesday Presentations
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
 * The Proposed Boost B-tree Library
 * Parsing C++ with GCC plugins
+* [Boost Infrastructure Notes](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon-infrastructure.org)
