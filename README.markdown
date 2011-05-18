@@ -16,15 +16,15 @@ Tuesday Presentations
 * [Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
 * [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pdf) | [pptx verion](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pptx)
 * Spirit.Qi in the Real World
-* Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library
+* [Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi.pdf) | [printable](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi_printable.pdf)
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
-* The Proposed Boost B-tree Library
-* Parsing C++ with GCC plugins
-* [Boost Infrastructure Notes](https://github.com/boostcon/2011_presentations/blob/master/tue/boostcon-infrastructure.markdown)
+* [The Proposed Boost B-tree Library](https://github.com/boostcon/2011_presentations/raw/master/tue/proposed_b_tree_library.pdf)
+* [Parsing C++ with GCC plugins](https://github.com/boostcon/2011_presentations/raw/master/tue/parsing_cxx_with_gcc_plugins.pdf)
+* [Boost Infrastructure Notes](https://github.com/boostcon/2011_presentations/blob/master/tue/boostcon_infrastructure.markdown)
 
 Wednesday Presentations
 
-* Boost Library in a Week
+* Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/blob/master/wed/liaw-qvm.pdf)
 * Threads and Shared Variables in C++0x – Keynote
 * Lockfree Programming Part 2: Data Structures	
 * Boost.Units
