@@ -13,11 +13,40 @@ Monday Presentations
 
 Tuesday Presentations
 
-* Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++	
-* [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
-* Spirit.Qi in the Real World	
+* [Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
+* [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pdf) | [pptx verion](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pptx)
+* Spirit.Qi in the Real World
 * Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
 * The Proposed Boost B-tree Library
 * Parsing C++ with GCC plugins
 * [Boost Infrastructure Notes](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon-infrastructure.org)
+
+Wednesday Presentations
+
+* Boost Library in a Week
+* Threads and Shared Variables in C++0x – Keynote
+* Lockfree Programming Part 2: Data Structures	
+* Boost.Units
+* Are You Ready for IPv6?
+* Design Journeys with Skoot, a Peer Oriented Generic Networking Library	
+* Generic Conversion and Segmentation for Ranges: a Solution for Unicode
+* Creating Boost.Asio extensions
+
+Thursday Presentations
+
+* Boost Library in a Week — TBA (Thu)
+* Fast numerical computation in C++: Expression Templates and Beyond to Lazy Code Generation (LzCG)	
+* Funding Boost development through national and international research programs and funds
+* Practical SIMD acceleration with Boost.SIMD	
+* Object-relational mapping with ODB and Boost
+* Why C++0x is the Awesomest Language for Network Programming
+* Boost.Generic: Concepts without Concepts 
+* Sweep-Line Algorithm for Voronoi Diagrams of Points, Line Segments and Medial Axis of Polygons in the Plane
+* Introducing MPL.Graph
+
+Friday Presentations
+
+* Jeff Garland: Boost Library in a Week — TBA (Fri)
+* AST Construction with the Universal Tree
+* Boost.Process: Process management in C++
