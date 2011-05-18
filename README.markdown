@@ -24,7 +24,7 @@ Tuesday Presentations
 
 Wednesday Presentations
 
-* Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/blob/master/wed/liaw-qvm.pdf)
+* Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
 * Threads and Shared Variables in C++0x – Keynote
 * Lockfree Programming Part 2: Data Structures	
 * Boost.Units
