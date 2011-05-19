@@ -1,4 +1,4 @@
-# BoostCon 2011 Presentation
+# BoostCon 2011 Presentations
 
 Monday Presentations
 
@@ -13,8 +13,8 @@ Monday Presentations
 
 Tuesday Presentations
 
-* [Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
-* [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pdf) | [pptx verion](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pptx)
+* [Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pdf) | [pptx verion](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pptx)
+* [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
 * Spirit.Qi in the Real World
 * [Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi.pdf) | [printable](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi_printable.pdf)
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
