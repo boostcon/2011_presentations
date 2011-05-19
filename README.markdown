@@ -18,6 +18,9 @@ Tuesday Presentations
 * Spirit.Qi in the Real World
 * [Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi.pdf) | [printable](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi_printable.pdf)
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
+   ** [Part 1](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz1.pdf)  |  [pptx](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz1.pptx)
+   ** [Part 2](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz2.pdf)  |  [pptx](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz2.pptx)
+   ** [Part 3](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz3.pdf)  |  [pptx](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz3.pptx)
 * [The Proposed Boost B-tree Library](https://github.com/boostcon/2011_presentations/raw/master/tue/proposed_b_tree_library.pdf)
 * [Parsing C++ with GCC plugins](https://github.com/boostcon/2011_presentations/raw/master/tue/parsing_cxx_with_gcc_plugins.pdf)
 * [Boost Infrastructure Notes](https://github.com/boostcon/2011_presentations/blob/master/tue/boostcon_infrastructure.markdown)
@@ -25,13 +28,13 @@ Tuesday Presentations
 Wednesday Presentations
 
 * Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
-* Threads and Shared Variables in C++0x – Keynote
+* [Threads and Shared Variables in C++0x – Keynote](boehm-boostcon11.pdf) | [pptx](boehm-boostcon11.pptx)
 * Lockfree Programming Part 2: Data Structures	
 * Boost.Units
-* Are You Ready for IPv6?
+* [Are You Ready for IPv6?](https://github.com/boostcon/2011_presentations/raw/master/wed/IPv6.pdf)
 * Design Journeys with Skoot, a Peer Oriented Generic Networking Library	
-* Generic Conversion and Segmentation for Ranges: a Solution for Unicode
-* [Creating Boost.Asio extensions](https://github.com/boostcon/2011_presentations/raw/master/wed/creating_boost_asio_extensions.pdf) | [source code](https://github.com/boostcon/2011_presentations/tree/master/wed/asio_extentions/)
+* [Generic Conversion and Segmentation for Ranges: a Solution for Unicode](https://github.com/boostcon/2011_presentations/raw/master/wed/unicode.pdf)
+* [Creating Boost.Asio extensions](https://github.com/boostcon/2011_presentations/raw/master/wed/creating_boost_asio_extensions.pdf) | [source code](https://github.com/boostcon/2011_presentations/tree/master/wed/asio_extentions)
 
 Thursday Presentations
 
