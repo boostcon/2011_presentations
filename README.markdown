@@ -31,7 +31,7 @@ Wednesday Presentations
 * Are You Ready for IPv6?
 * Design Journeys with Skoot, a Peer Oriented Generic Networking Library	
 * Generic Conversion and Segmentation for Ranges: a Solution for Unicode
-* [Creating Boost.Asio extensions](https://github.com/boostcon/2011_presentations/blob/master/wed/creating_boost_asio_extensions.pdf) | [source code](https://github.com/boostcon/2011_presentations/blob/master/wed/asio_extentions/)
+* [Creating Boost.Asio extensions](https://github.com/boostcon/2011_presentations/raw/master/wed/creating_boost_asio_extensions.pdf) | [source code](https://github.com/boostcon/2011_presentations/tree/master/wed/asio_extentions/)
 
 Thursday Presentations
 
