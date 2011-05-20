@@ -43,9 +43,9 @@ Thursday Presentations
 * Funding Boost development through national and international research programs and funds
 * [Practical SIMD acceleration with Boost.SIMD](https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf)
 * [Object-relational mapping with ODB and Boost](https://github.com/boostcon/2011_presentations/raw/master/thu/orm_with_odb_and_boost.pdf)
-* Why C++0x is the Awesomest Language for Network Programming
+* [Why C++0x is the Awesomest Language for Network Programming](https://github.com/boostcon/2011_presentations/raw/master/thu/Awesomest.pdf)
 * [Boost.Generic: Concepts without Concepts](https://github.com/boostcon/2011_presentations/raw/master/thu/Boost.Generic.pdf)
-* Sweep-Line Algorithm for Voronoi Diagrams of Points, Line Segments and Medial Axis of Polygons in the Plane
+* [Sweep-Line Algorithm for Voronoi Diagrams of Points, Line Segments and Medial Axis of Polygons in the Plane](https://github.com/boostcon/2011_presentations/raw/master/thu/voronoi_diagram_of_line_segments.pdf) | [ppt](https://github.com/boostcon/2011_presentations/raw/master/thu/voronoi_diagram_of_line_segments.ppt)
 * Introducing MPL.Graph
 
 Friday Presentations
