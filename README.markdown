@@ -50,6 +50,6 @@ Thursday Presentations
 
 Friday Presentations
 
-* Jeff Garland: Boost Library in a Week — TBA (Fri)
+* [Jeff Garland: Boost Library in a Week](https://github.com/boostcon/2011_presentations/raw/master/fri/liaw_wrapup.pdf)
 * AST Construction with the Universal Tree
 * Boost.Process: Process management in C++
