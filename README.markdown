@@ -46,7 +46,7 @@ Thursday Presentations
 * [Why C++0x is the Awesomest Language for Network Programming](https://github.com/boostcon/2011_presentations/raw/master/thu/Awesomest.pdf)
 * [Boost.Generic: Concepts without Concepts](https://github.com/boostcon/2011_presentations/raw/master/thu/Boost.Generic.pdf)
 * [Sweep-Line Algorithm for Voronoi Diagrams of Points, Line Segments and Medial Axis of Polygons in the Plane](https://github.com/boostcon/2011_presentations/raw/master/thu/voronoi_diagram_of_line_segments.pdf) | [ppt](https://github.com/boostcon/2011_presentations/raw/master/thu/voronoi_diagram_of_line_segments.ppt)
-* Introducing MPL.Graph
+* [Introducing MPL.Graph](https://github.com/boostcon/2011_presentations/raw/master/thu/mpl.graph.pdf)
 
 Friday Presentations
 
