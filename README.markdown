@@ -29,7 +29,7 @@ Wednesday Presentations
 
 * Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
 * [Threads and Shared Variables in C++0x – Keynote](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pdf) | [pptx](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pptx)
-* Lockfree Programming Part 2: Data Structures	
+* [Lockfree Programming Part 2: Data Structures](https://github.com/boostcon/2011_presentations/raw/master/wed/lockfree_2011_slides.pdf)
 * Boost.Units
 * [Are You Ready for IPv6?](https://github.com/boostcon/2011_presentations/raw/master/wed/IPv6.pdf)
 * Design Journeys with Skoot, a Peer Oriented Generic Networking Library	
@@ -52,4 +52,4 @@ Friday Presentations
 
 * [Jeff Garland: Boost Library in a Week](https://github.com/boostcon/2011_presentations/raw/master/fri/liaw_wrapup.pdf)
 * AST Construction with the Universal Tree
-* Boost.Process: Process management in C++
+* [Boost.Process: Process management in C++](https://github.com/boostcon/2011_presentations/raw/master/fri/Boost.Process.pdf)
