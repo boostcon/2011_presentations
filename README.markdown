@@ -28,7 +28,7 @@ Tuesday Presentations
 Wednesday Presentations
 
 * Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
-* [Threads and Shared Variables in C++0x – Keynote](boehm-boostcon11.pdf) | [pptx](boehm-boostcon11.pptx)
+* [Threads and Shared Variables in C++0x – Keynote](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pdf) | [pptx](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pptx)
 * Lockfree Programming Part 2: Data Structures	
 * Boost.Units
 * [Are You Ready for IPv6?](https://github.com/boostcon/2011_presentations/raw/master/wed/IPv6.pdf)
