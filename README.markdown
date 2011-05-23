@@ -15,7 +15,7 @@ Tuesday Presentations
 
 * [Intel’s C++ Software Transactional Memory Compiler and the Draft Specification of Transactional Language Constructs for C++](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pdf) | [pptx verion](https://github.com/boostcon/2011_presentations/raw/master/tue/boostcon_tm_spec.pptx)
 * [Automatic Hybrid MPI+OpenMP Code Generation](https://github.com/boostcon/2011_presentations/raw/master/tue/bsppp.pdf)
-* Spirit.Qi in the Real World
+* [Spirit.Qi in the Real World](https://github.com/boostcon/2011_presentations/raw/master/tue/spirit_qi_in_the_real_world.pdf)
 * [Mastering the Cell Broadband Engine architecture through a Boost based parallel communication library](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi.pdf) | [printable](https://github.com/boostcon/2011_presentations/raw/master/tue/cell_mpi_printable.pdf)
 * Haskell – The Pseudocode Language for C++ Template Metaprogramming
    - [Part 1](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz1.pdf)  |  [pptx](https://github.com/boostcon/2011_presentations/raw/master/tue/haskell/Bartosz1.pptx)
@@ -40,7 +40,7 @@ Thursday Presentations
 
 * Boost Library in a Week — TBA (Thu)
 * Fast numerical computation in C++: Expression Templates and Beyond to Lazy Code Generation (LzCG)	
-* Funding Boost development through national and international research programs and funds
+* [Funding Boost development through national and international research programs and funds](https://github.com/boostcon/2011_presentations/raw/master/thu/BoostCon2011Funding.pdf)
 * [Practical SIMD acceleration with Boost.SIMD](https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf)
 * [Object-relational mapping with ODB and Boost](https://github.com/boostcon/2011_presentations/raw/master/thu/orm_with_odb_and_boost.pdf)
 * [Why C++0x is the Awesomest Language for Network Programming](https://github.com/boostcon/2011_presentations/raw/master/thu/Awesomest.pdf)
