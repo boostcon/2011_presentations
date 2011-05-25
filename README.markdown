@@ -27,7 +27,7 @@ Tuesday Presentations
 
 Wednesday Presentations
 
-* Boost Library in a Week: Lockfree, Autobuffer, [QVM](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
+* Boost Library in a Week: Lockfree, Autobuffer, [QVM overview by Fabio Fracassi](https://github.com/boostcon/2011_presentations/raw/master/wed/liaw-qvm.pdf)
 * [Threads and Shared Variables in C++0x – Keynote](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pdf) | [pptx](https://github.com/boostcon/2011_presentations/raw/master/wed/boehm-boostcon11.pptx)
 * [Lockfree Programming Part 2: Data Structures](https://github.com/boostcon/2011_presentations/raw/master/wed/lockfree_2011_slides.pdf)
 * Boost.Units
@@ -38,7 +38,7 @@ Wednesday Presentations
 
 Thursday Presentations
 
-* Boost Library in a Week — TBA (Thu)
+* Boost Library in a Week [pimpl overview by Sebastian Redl](https://github.com/boostcon/2011_presentations/raw/master/thu/pimpl.pdf)
 * Fast numerical computation in C++: Expression Templates and Beyond to Lazy Code Generation (LzCG)	
 * [Funding Boost development through national and international research programs and funds](https://github.com/boostcon/2011_presentations/raw/master/thu/BoostCon2011Funding.pdf)
 * [Practical SIMD acceleration with Boost.SIMD](https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf)
