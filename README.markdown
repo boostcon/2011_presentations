@@ -39,7 +39,7 @@ Wednesday Presentations
 Thursday Presentations
 
 * Boost Library in a Week [pimpl overview by Sebastian Redl](https://github.com/boostcon/2011_presentations/raw/master/thu/pimpl.pdf)
-* [Fast numerical computation in C++: Expression Templates and Beyond to Lazy Code Generation]((https://github.com/boostcon/2011_presentations/raw/master/thu/fast_numerical.pdf)
+* [Fast numerical computation in C++: Expression Templates and Beyond to Lazy Code Generation](https://github.com/boostcon/2011_presentations/raw/master/thu/fast_numerical.pdf)
 * [Funding Boost development through national and international research programs and funds](https://github.com/boostcon/2011_presentations/raw/master/thu/BoostCon2011Funding.pdf)
 * [Practical SIMD acceleration with Boost.SIMD](https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf)
 * [Object-relational mapping with ODB and Boost](https://github.com/boostcon/2011_presentations/raw/master/thu/orm_with_odb_and_boost.pdf)
